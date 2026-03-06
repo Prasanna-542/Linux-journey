@@ -1,0 +1,34 @@
+# Linux Folder Structure Practice
+
+## Important Directories
+
+| Directory | Purpose |
+|-----------|--------|
+| /bin | Essential user commands |
+| /etc | Configuration files |
+| /home | User home directories |
+| /root | Root user home |
+| /tmp | Temporary files |
+| /var | Logs and variable data |
+| /usr | Installed applications |
+
+## Commands Practiced
+
+pwd
+ls
+cd
+tree
+
+## Example Practice
+
+Navigate to root directory:
+
+cd /
+
+List directories:
+
+ls
+
+Check present working directory:
+
+pwd
