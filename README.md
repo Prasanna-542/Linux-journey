@@ -1,1 +1,39 @@
-# Linux-journey
+Linux Learning Journey – Day 1
+
+Topic: File Management Practice
+
+Environment
+	•	Practiced on AWS EC2 Linux instance
+
+Commands Practiced
+	•	mkdir – create directory
+	•	cd – change directory
+	•	touch – create file
+	•	mv – move/rename files
+	•	cp – copy files
+	•	ls – list files
+	•	tree – display folder structure
+
+⸻
+
+Task Performed
+
+Created a DevOps project folder structure.
+
+Folder Structure
+
+devops_lab
+├── config
+├── logs
+│   └── app.config
+└── scripts
+    ├── build.sh
+    └── deploy_v1.sh
+
+⸻
+
+Learning Outcome
+	•	Learned how to create directories and files
+	•	Practiced moving files between folders
+	•	Understood Linux project structure
+	•	Used tree command to verify structure
