@@ -1,39 +1,30 @@
-Linux Learning Journey – Day 1
+# Linux Journey for DevOps
 
-Topic: File Management Practice
+This repository documents my Linux learning journey while preparing for a DevOps role.
 
-Environment
-	•	Practiced on AWS EC2 Linux instance
+## Learning Environment
+- Practicing on AWS EC2 (Free Tier)
+- Using Amazon Linux / Ubuntu
+  
 
-Commands Practiced
-	•	mkdir – create directory
-	•	cd – change directory
-	•	touch – create file
-	•	mv – move/rename files
-	•	cp – copy files
-	•	ls – list files
-	•	tree – display folder structure
+## Topics Covered
 
-⸻
+1. Linux Folder Structure
+2. File Management Commands
+3. User Management
+4. VIM Editor
+5. File Permissions
+6. Process Management
+7. Disk Management
+8. Monitoring Commands
 
-Task Performed
+## Practice Method
 
-Created a DevOps project folder structure.
+- Learning theory
+- Practicing commands in EC2
+- Documenting outputs
+- Uploading progress to GitHub
 
-Folder Structure
+## Goal
 
-devops_lab
-├── config
-├── logs
-│   └── app.config
-└── scripts
-    ├── build.sh
-    └── deploy_v1.sh
-
-⸻
-
-Learning Outcome
-	•	Learned how to create directories and files
-	•	Practiced moving files between folders
-	•	Understood Linux project structure
-	•	Used tree command to verify structure
+Build strong Linux fundamentals required for DevOps and Cloud Engineering roles.
