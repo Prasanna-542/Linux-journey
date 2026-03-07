@@ -45,6 +45,6 @@ Learning Outcome
 
 Screenshot
 
-![File Management Output] (https://github.com/Prasanna-542/Linux-journey/raw/e8081d8ec038c13fcd7218511e2a3dea0f15978f/Screenshot%202026-03-07%20155534.png)
+![File Management Output](https://github.com/Prasanna-542/Linux-journey/blob/1d1470e272cd7178ae748200a7dae654e19ca97e/Screenshot%202026-03-07%20155534.png)
 
 
