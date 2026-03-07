@@ -1,5 +1,8 @@
 File Management Practice
 
+## Scenario
+Organizing project documentation in Linux.
+
 Environment
 	•	Practiced on AWS EC2 Linux instance
 
@@ -14,19 +17,21 @@ Commands Practiced
 
 ⸻
 
-Task Performed
+## Final Directory Structure
 
-Created a DevOps project folder structure.
+project_docs
+├── archive
+│   ├── architecture.txt
+│   └── meeting2.txt
+├── design
+│   ├── architecture.txt
+│   └── infra_design.txt
+├── guides
+│   ├── deployment.txt
+│   └── installation.txt
+└── notes
+    └── todo.txt
 
-Folder Structure
-
-devops_lab
-├── config
-├── logs
-│   └── app.config
-└── scripts
-    ├── build.sh
-    └── deploy_v1.sh
 
 ⸻
 
