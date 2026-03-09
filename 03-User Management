@@ -1,1 +1,65 @@
+# Linux User Management
 
+Linux user management is used by system administrators to manage users and groups in the system.
+
+It allows administrators to:
+- Create users
+- Modify users
+- Delete users
+- Assign users to groups
+- Manage permissions
+
+---
+
+## Important Files Used in User Management
+
+| File | Description |
+|-----|-------------|
+| /etc/passwd | Stores user account information |
+| /etc/shadow | Stores encrypted passwords |
+| /etc/group | Stores group information |
+
+---
+
+## Create User
+Command used to create a new user.
+sudo useradd devops1
+Set Password
+Command used to set password for user.
+sudo passwd devops1
+Create Group
+sudo groupadd devops
+Add User to Group
+sudo usermod -aG devops devops1
+Switch User
+su - devops1
+Delete User
+sudo userdel devops1
+
+Commands Practiced
+
+useradd
+passwd
+usermod
+userdel
+groupadd
+groupdel
+su
+whoami
+id
+groups
+
+
+After completing this practice task, I was able to understand the basics of Linux user administration.
+
+Key things I learned:
+
+How to check the current logged-in user using whoami
+How to view user and group information using id
+How to create new users using useradd
+How to assign or change passwords using passwd
+How to create groups using groupadd
+How to add users to groups using usermod
+How to verify group membership using groups
+How to switch between users using su
+How to delete users using userdel
