@@ -1,1 +1,43 @@
+Linux Vim Editor – Practice Task
+Task Objective
 
+As part of my Linux learning for DevOps, I practiced using the Vim editor.
+Vim is a powerful text editor widely used in Linux servers to create and edit configuration files.
+
+The objective of this task was to understand how to create, edit, save, and manage files using Vim.
+
+Task Scenario
+
+Assume I am working on a Linux server and I need to create a configuration file for a DevOps project.
+
+In this task, I practiced:
+
+Creating a new file using Vim
+Writing text inside the file
+Editing the content
+Deleting lines
+Copying and pasting text
+Saving and exiting the file
+
+
+
+Commands Practiced
+
+vim filename
+i
+!
+dd
+yy
+p
+
+Learning Outcome
+
+From this practice task, I learned:
+
+How to open and create files using Vim
+The difference between command mode and insert mode
+How to add and edit text in Vim
+How to save and exit files
+How to delete, copy, and paste lines
+
+This practice helped me understand how developers and DevOps engineers edit configuration files directly on Linux servers using Vim.
